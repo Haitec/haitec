@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I'm Haitec. Developer and nerd for more than 15 years:
+I have implemented and maintained numerous mobile apps, desktop applications and websites. My skills include: mobile, frontend, backend, Windows and embedded development. In addition, I have experience with UX/UI and can also mentor in these and other areas. Currently I am focusing on mobile development (mainly iOS) and I am also very interested in IT security.

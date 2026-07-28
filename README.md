@@ -23,20 +23,20 @@ Currently building at [YouniQode](https://youniqode.com).
 
 #### Stack
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Security](https://img.shields.io/badge/IT%20Security-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![C# & .NET](https://img.shields.io/badge/C%23_%26_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Security](https://img.shields.io/badge/IT%20Security-1E1E1E?style=flat-square&logo=hackthebox&logoColor=white)
 
 #### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldoenicke/)
-[![Website](https://img.shields.io/badge/YouniQode-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youniqode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldoenicke/)
+[![Xing](https://img.shields.io/badge/Xing-006567?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Miguel_Doenicke/)
+[![Website](https://img.shields.io/badge/YouniQode-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://youniqode.com)
 
 <!--
 #### Stats

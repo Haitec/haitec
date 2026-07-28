@@ -15,5 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm Haitec. Developer and nerd for more than 15 years:
-I have implemented and maintained numerous mobile apps, desktop applications and websites. My skills include: mobile, frontend, backend, Windows and embedded development. In addition, I have experience with UX/UI and can also mentor in these and other areas. Currently I am focusing on mobile development (mainly iOS) and I am also very interested in IT security.
+I'm Haitec — developer and nerd for more than 15 years.
+
+I've built and maintained mobile apps, desktop applications, and websites across a wide range of stacks: mobile, frontend, backend, Windows, and embedded development. Alongside that I have experience in UX/UI design and enjoy mentoring in these areas and increasingly interested in IT security. Right now I'm focused on mobile development (mainly iOS) and entrepreneurship.
+
+Currently building at [YouniQode](https://youniqode.com).
+
+#### Stack
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Security](https://img.shields.io/badge/IT%20Security-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+#### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldoenicke/)
+[![Website](https://img.shields.io/badge/YouniQode-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youniqode.com)
+
+<!--
+#### Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Haitec&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Haitec's GitHub stats" width="49%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haitec&layout=compact&hide_border=true&theme=default" alt="Top languages" width="49%" />
+
+<br clear="both" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haitec&hide_border=true&theme=default" alt="Haitec's GitHub streak" />
